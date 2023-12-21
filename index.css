@@ -1,0 +1,39 @@
+li{
+	display: inline-block;
+	color: ;
+	text-align: center;
+	padding: 10px 30px;
+	color: white;
+	font-size: larger;
+
+}
+body{
+	background: darkgrey;
+	margin: 0px;
+}
+li:hover:not(.active) {
+    background-color: black;
+    color: white;
+}
+.active {
+    background-color: #4CAF50;
+}
+h1{
+	font-family: cursive;
+}
+#two{
+	background: mediumvioletred;
+}
+h2{
+	text-transform: initial;
+}
+a{
+	color: white;
+	font-size: medium;
+	padding-top: auto;
+}
+#one{
+	background: black;
+	color: white;
+	padding-bottom: 30px;
+}
